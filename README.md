@@ -21,8 +21,7 @@
 
 # 界面展示
 - 登录页面
-![](https://github.com/SparkParis/alibaixiu_websit/blob/master/img/login.png)
-
+<img src="https://github.com/SparkParis/alibaixiu_websit/blob/master/img/login.png" alt="">
 - 超级管理员后台管理界面
 ![](https://github.com/SparkParis/alibaixiu_websit/blob/master/img/back.png)
 
