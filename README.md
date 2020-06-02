@@ -21,10 +21,10 @@
 
 # 界面展示
 - 登录页面
-![](./img/login.png)
+![](https://github.com/SparkParis/alibaixiu_websit/blob/master/img/login.png)
 
 - 超级管理员后台管理界面
-![](./img/back.png)
+![](https://github.com/SparkParis/alibaixiu_websit/blob/master/img/back.png)
 
 - 普通用户访问网站界面
-![](./img/front.png)
+![](https://github.com/SparkParis/alibaixiu_websit/blob/master/img/front.png)
