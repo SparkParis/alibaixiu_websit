@@ -20,10 +20,9 @@
 - node app.js启动后台服务器
 
 # 界面展示
-- 登录页面
-<img src="https://github.com/SparkParis/alibaixiu_websit/blob/master/img/login.png" alt="">
-- 超级管理员后台管理界面
-![](https://github.com/SparkParis/alibaixiu_websit/blob/master/img/back.png)
+- [登录页面](https://github.com/SparkParis/alibaixiu_websit/blob/master/img/login.png)
 
-- 普通用户访问网站界面
-![](https://github.com/SparkParis/alibaixiu_websit/blob/master/img/front.png)
+
+- [超级管理员后台管理界面](https://github.com/SparkParis/alibaixiu_websit/blob/master/img/back.png)
+
+- [普通用户访问网站界面](https://github.com/SparkParis/alibaixiu_websit/blob/master/img/front.png)
